@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "INTERNAL.Controllers.ReportController",
+    "Method": "SendReport",
+    "RelativePath": "api/CapturedMeterReport/DailySend",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

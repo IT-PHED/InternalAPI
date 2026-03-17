@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\reportscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\reportscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\reportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\reportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\templates\\emailreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:templates\\emailreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\models\\capturedmeters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:models\\capturedmeters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\dto\\capturedmetersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:dto\\capturedmetersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\capturedmetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\capturedmetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\capturedmeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\capturedmeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\ireportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\ireportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\data\\oracleconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:data\\oracleconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\utilities\\csvgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:utilities\\csvgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\utilities\\excelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:utilities\\excelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportScheduler.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportScheduler.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportScheduler.cs",
+              "RelativeToolTip": "Controllers\\ReportScheduler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:23:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportProcessingService.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportProcessingService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportProcessingService.cs",
+              "RelativeToolTip": "Controllers\\ReportProcessingService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:23:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T13:37:34.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CapturedMeterController.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\CapturedMeterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CapturedMeterController.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\CapturedMeterController.cs",
+              "RelativeToolTip": "Controllers\\CapturedMeterController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:40:52.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CapturedMeters.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Models\\CapturedMeters.cs",
+              "RelativeDocumentMoniker": "Models\\CapturedMeters.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Models\\CapturedMeters.cs",
+              "RelativeToolTip": "Models\\CapturedMeters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:23:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\MailService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\MailService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\MailService.cs",
+              "RelativeToolTip": "Services\\Implementations\\MailService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:02:59.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailReport.html",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Templates\\EmailReport.html",
+              "RelativeDocumentMoniker": "Templates\\EmailReport.html",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Templates\\EmailReport.html",
+              "RelativeToolTip": "Templates\\EmailReport.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-17T14:49:04.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CapturedMetersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\DTO\\CapturedMetersDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CapturedMetersDTO.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\DTO\\CapturedMetersDTO.cs",
+              "RelativeToolTip": "DTO\\CapturedMetersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:32:58.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CapturedMeterService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\CapturedMeterService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CapturedMeterService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\CapturedMeterService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CapturedMeterService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:34:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:01:28.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReportProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\IReportProcessingService.cs",
+              "RelativeDocumentMoniker": "Controllers\\IReportProcessingService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\IReportProcessingService.cs",
+              "RelativeToolTip": "Controllers\\IReportProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:23:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Interfaces\\IMailService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMailService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Interfaces\\IMailService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:03:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OracleConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Data\\OracleConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Data\\OracleConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Data\\OracleConnectionFactory.cs",
+              "RelativeToolTip": "Data\\OracleConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:15:35.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CsvGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Utilities\\CsvGenerator.cs",
+              "RelativeDocumentMoniker": "Utilities\\CsvGenerator.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Utilities\\CsvGenerator.cs",
+              "RelativeToolTip": "Utilities\\CsvGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:18:29.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcelGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Utilities\\ExcelGenerator.cs",
+              "RelativeDocumentMoniker": "Utilities\\ExcelGenerator.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Utilities\\ExcelGenerator.cs",
+              "RelativeToolTip": "Utilities\\ExcelGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:19:15.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
