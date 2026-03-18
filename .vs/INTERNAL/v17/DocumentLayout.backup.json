@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\agentlowbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\agentlowbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\reportscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\reportscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\reportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\reportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\agentlowbalanceprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\agentlowbalanceprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\agentbalancescheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\agentbalancescheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\capturedmeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\capturedmeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\iagentlowbalanceprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\iagentlowbalanceprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\iagentlowbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\iagentlowbalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\reportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\reportprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\templates\\emailreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\controllers\\capturedmetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:controllers\\capturedmetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\services\\implementations\\capturedmeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|solutionrelative:services\\implementations\\capturedmeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{568B30D6-BA83-4808-ABD1-25284AAA9FA3}|INTERNAL.csproj|c:\\users\\edesiri.uduvwurode\\source\\repos\\internal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,6 +103,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AgentLowBalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\AgentLowBalanceService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AgentLowBalanceService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\AgentLowBalanceService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AgentLowBalanceService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:29:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReportScheduler.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportScheduler.cs",
               "RelativeDocumentMoniker": "Controllers\\ReportScheduler.cs",
@@ -95,33 +128,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReportProcessingService.cs",
-              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportProcessingService.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReportProcessingService.cs",
-              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportProcessingService.cs",
-              "RelativeToolTip": "Controllers\\ReportProcessingService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:23:22.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-17T13:37:34.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentLowBalanceProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\AgentLowBalanceProcessingService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AgentLowBalanceProcessingService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\AgentLowBalanceProcessingService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AgentLowBalanceProcessingService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:19:15.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentBalanceScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\AgentBalanceScheduler.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentBalanceScheduler.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\AgentBalanceScheduler.cs",
+              "RelativeToolTip": "Controllers\\AgentBalanceScheduler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:24:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgentLowBalanceProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\IAgentLowBalanceProcessingService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\IAgentLowBalanceProcessingService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\IAgentLowBalanceProcessingService.cs",
+              "RelativeToolTip": "Services\\Implementations\\IAgentLowBalanceProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:18:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CapturedMeterService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\CapturedMeterService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CapturedMeterService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\CapturedMeterService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CapturedMeterService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:34:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IAgentLowBalanceService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\IAgentLowBalanceService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\IAgentLowBalanceService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\IAgentLowBalanceService.cs",
+              "RelativeToolTip": "Services\\Implementations\\IAgentLowBalanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:25:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CapturedMeterController.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\CapturedMeterController.cs",
               "RelativeDocumentMoniker": "Controllers\\CapturedMeterController.cs",
@@ -129,12 +214,11 @@
               "RelativeToolTip": "Controllers\\CapturedMeterController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:40:52.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T11:40:52.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CapturedMeters.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Models\\CapturedMeters.cs",
               "RelativeDocumentMoniker": "Models\\CapturedMeters.cs",
@@ -142,25 +226,24 @@
               "RelativeToolTip": "Models\\CapturedMeters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:23:41.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T11:23:41.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MailService.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\MailService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\MailService.cs",
               "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\MailService.cs",
               "RelativeToolTip": "Services\\Implementations\\MailService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T11:02:59.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EmailReport.html",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Templates\\EmailReport.html",
               "RelativeDocumentMoniker": "Templates\\EmailReport.html",
@@ -168,12 +251,23 @@
               "RelativeToolTip": "Templates\\EmailReport.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-17T14:49:04.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T14:49:04.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "ReportProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportProcessingService.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportProcessingService.cs",
+              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\ReportProcessingService.cs",
+              "RelativeToolTip": "Controllers\\ReportProcessingService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:23:22.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CapturedMetersDTO.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\DTO\\CapturedMetersDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CapturedMetersDTO.cs",
@@ -181,25 +275,11 @@
               "RelativeToolTip": "DTO\\CapturedMetersDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T12:32:58.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T12:32:58.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CapturedMeterService.cs",
-              "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\CapturedMeterService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\CapturedMeterService.cs",
-              "ToolTip": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Implementations\\CapturedMeterService.cs",
-              "RelativeToolTip": "Services\\Implementations\\CapturedMeterService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:34:43.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -207,12 +287,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:01:28.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T14:01:28.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "IReportProcessingService.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Controllers\\IReportProcessingService.cs",
               "RelativeDocumentMoniker": "Controllers\\IReportProcessingService.cs",
@@ -220,12 +299,11 @@
               "RelativeToolTip": "Controllers\\IReportProcessingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:23:17.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T15:23:17.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "IMailService.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Services\\Interfaces\\IMailService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IMailService.cs",
@@ -233,12 +311,11 @@
               "RelativeToolTip": "Services\\Interfaces\\IMailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:03:50.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T11:03:50.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "OracleConnectionFactory.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Data\\OracleConnectionFactory.cs",
               "RelativeDocumentMoniker": "Data\\OracleConnectionFactory.cs",
@@ -246,12 +323,11 @@
               "RelativeToolTip": "Data\\OracleConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T14:15:35.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T14:15:35.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "CsvGenerator.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Utilities\\CsvGenerator.cs",
               "RelativeDocumentMoniker": "Utilities\\CsvGenerator.cs",
@@ -263,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ExcelGenerator.cs",
               "DocumentMoniker": "C:\\Users\\edesiri.uduvwurode\\source\\repos\\INTERNAL\\Utilities\\ExcelGenerator.cs",
               "RelativeDocumentMoniker": "Utilities\\ExcelGenerator.cs",

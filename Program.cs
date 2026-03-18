@@ -11,7 +11,10 @@ builder.Services.AddSingleton<OracleConnectionFactory>();
 builder.Services.AddScoped<ICapturedMeterService, CapturedMeterService>();
 builder.Services.AddScoped<IMailService, MailService>();
 builder.Services.AddScoped<IReportProcessingService, ReportProcessingService>();
+builder.Services.AddScoped<IAgentLowBalanceService, AgentLowBalanceService>();
+builder.Services.AddScoped<IAgentLowBalanceProcessingService, AgentLowBalanceProcessingService>();
 builder.Services.AddHostedService<ReportScheduler>();
+builder.Services.AddHostedService<AgentBalanceScheduler>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

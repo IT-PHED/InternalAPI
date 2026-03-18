@@ -11,7 +11,7 @@ public class MailService : IMailService
         _config = config;
     }
 
-    public async Task SendMailAsync(string to, string subject, string body, byte[] attachment, string fileName)
+    public async Task SendMailAsync(string to, string subject, string body, byte[] attachment = null, string fileName = null, string cc = null)
     {
         var message = new MimeMessage();
 
@@ -22,6 +22,15 @@ public class MailService : IMailService
         foreach (var recipient in recipients)
         {
             message.To.Add(MailboxAddress.Parse(recipient.Trim()));
+        }
+
+        if (!string.IsNullOrEmpty(cc))
+        {
+            var ccRecipients = cc.Split(';', StringSplitOptions.RemoveEmptyEntries);
+            foreach (var recipient in ccRecipients)
+            {
+                message.Cc.Add(MailboxAddress.Parse(recipient.Trim()));
+            }
         }
 
         message.Subject = subject;

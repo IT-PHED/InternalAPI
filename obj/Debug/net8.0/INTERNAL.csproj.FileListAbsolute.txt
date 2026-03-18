@@ -56,3 +56,4 @@ C:\Users\edesiri.uduvwurode\source\repos\INTERNAL\bin\Debug\net8.0\runtimes\linu
 C:\Users\edesiri.uduvwurode\source\repos\INTERNAL\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\edesiri.uduvwurode\source\repos\INTERNAL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\edesiri.uduvwurode\source\repos\INTERNAL\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\edesiri.uduvwurode\source\repos\INTERNAL\obj\Debug\net8.0\INTERNAL.sourcelink.json
